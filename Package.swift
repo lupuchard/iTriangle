@@ -13,7 +13,7 @@ let package = Package(
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
-        .package(url: "https://github.com/iShape-Swift/iFixFloat", .upToNextMajor(from: "1.9.0")),
+        .package(url: "https://github.com/lupuchard/iFixFloat", .upToNextMajor(from: "1.9.0")),
         .package(url: "https://github.com/iShape-Swift/iShape", .upToNextMajor(from: "1.13.0")),
         .package(url: "https://github.com/iShape-Swift/iOverlay", .upToNextMajor(from: "1.22.0"))
 //         .package(path: "../iFixFloat"),
